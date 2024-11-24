@@ -6,8 +6,8 @@ from datetime import datetime
 import asyncio
 
 # Replace with your API token from BotFather
-API_TOKEN = "8051289787:AAGkZN84emfDP_DtkzNUwj1jzXULjEcYZUY"
-GROUP_CHAT_ID = "-1002028827977"  # Replace with your group's chat ID
+API_TOKEN = "your API token"
+GROUP_CHAT_ID = "group's chat ID"  # Replace with your group's chat ID
 
 # User mention mapping (daily and weekly reminders)
 USER_MENTIONS = {
